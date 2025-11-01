@@ -6,4 +6,3 @@ programa {
     escreva("Resultado : ", resultado)
   }
 }
-
